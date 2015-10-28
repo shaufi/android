@@ -1,0 +1,37 @@
+1. 3 bagian
+   Deklarasi, Instansiasi, Inisialisasi 
+   Deklarasi = deklarasi variabel dengan nama variabel dan jenis objek
+   Instansiasi = kata kuncinya adalah new yang digunakan untuk membuat objek
+   Inisialisasi = kata kunci new yang diikuti panggilan untuk constructor dan panggilan ini berupa objek baru
+
+2. ArrayList, tipe data arraylist , nama arraylist, arraylist baru, tipe data arraylist baru
+   - Arraylist = class yang dapat melakukan penyimpana data berupa list objek berbentuk array yang 
+               ukurannya dapat berubah secara dinamis sesuai dengan jumlah data yang.
+   - tipe data arraylist = bentuk tipe variabel arraylist
+   - nama arraylist = nama arraylist yang kita buat sendiri 
+   - arraylist baru = object arraylist yang mau kita buat
+   - tipe data arraylist baru = bentuk tipe variabel yang di pakai pada objek arraylist yang baru
+   
+3. - Pass by Value adalah nilai variabel yang mengirimkan parameter berdasarkan nilai variabel asalnya yang akan dihubungkan terhadap paramater fungsi pemanggilnya.
+   - Pass by Reference adalah nilai variabel yang mengirimkan parameter berdasarkan alamat dari nilai tertentu,
+     maksudnya jika ada nilai yang dirubah dari alamat asalnya maka akan terjadi perubahan
+
+4. - untuk melakukan tindakan yang berbeda berdasarkan pada kondisi yang berbeda satu sama lain.
+     if digunakan untuk mengeksekusi statement saat kondisi benar 
+     switch case untuk mengeksekusi kondisi dengan kemungkinan yang terjadi cukup banyak misalnya grade nilai mahasiswa
+     
+5. - untuk mempermudah melakukan suatu proses yang berulang-ulang atau looping, seperti membuat angka dari 1 – 10. 
+     Jika memakai script biasa kita akan memakan banyak memori, tetapi dengan looping kita dapat melakukannya 
+     dengan memori yang sedikit dan waktu yang singkat, complexity O(N).
+     for digunakan saat mau mengulang statement
+     while do digunakan saat kondisi statement benar maka dia akan mengulang kondisi itu sampai kondisi menunjukkan false
+     Do While kondisi perulangan di cek ketika akhir perulangan
+     
+6. - untuk menyimpan data maupun referensi objek dalam jumlah banyak dan terindeks
+     array statis digunakan ketika jumlah memori yang digunakan tetap dan tidak bisa di otak atik
+     array dinamis digunakan ketika jumlah memori yang digunakan bisa di ubah dan di otak atik sesuai kebutuhan
+
+7. - Karena mau memperdalam materi android dan java untuk membuah suatu aplikasi ke depannya
+
+8. - Karena saya pernah mempelajari ini semua soal dan saya mau memperdalam lagi untuk membuat aplikasi yang menggunakan library List, Custom View, dan API android
+     
